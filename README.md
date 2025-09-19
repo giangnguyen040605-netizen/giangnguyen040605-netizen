@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Giang 👋
 
-<!--
-**giangnguyen040605-netizen/giangnguyen040605-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year student majoring in **Investment Economics** at **UEH**.  
+💡 I’m passionate about finance, project evaluation, and data analysis.  
+🚀 Currently, I’m looking for opportunities to apply my skills in real-world projects and internships.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me  
+[![Facebook](https://web.facebook.com/chaugiang.chaugiang.564)  
+[![Instagram](https://www.instagram.com/nk.chou_zang/)  
+[![Gmail](mailto:giangnguyen.040605@gmail.com)  
+
+---
+
+## 🛠 Skills & Tools  
+- 📊 Data Analysis: Excel, Stata, Python (pandas, matplotlib)  
+- 💼 Finance & Investment: Project evaluation, NPV & IRR analysis  
+- 🌐 Others: Research writing, teamwork, presentation  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect with me.*  
+
