@@ -7,9 +7,9 @@
 ---
 
 ## 🌐 Connect with me  
-[![Facebook](https://web.facebook.com/chaugiang.chaugiang.564)  
-[![Instagram](https://www.instagram.com/nk.chou_zang/)  
-[![Gmail](mailto:giangnguyen.040605@gmail.com)  
+[Facebook](https://web.facebook.com/chaugiang.chaugiang.564)  
+[Instagram](https://www.instagram.com/nk.chou_zang/)  
+[Gmail](mailto:giangnguyen.040605@gmail.com)  
 
 ---
 
