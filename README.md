@@ -14,9 +14,10 @@
 ---
 
 ## 🛠 Skills & Tools  
-- 📊 Data Analysis: Excel, Stata, Python (pandas, matplotlib)  
-- 💼 Finance & Investment: Project evaluation, NPV & IRR analysis  
-- 🌐 Others: Research writing, teamwork, presentation  
+- 📊 Data Analysis & Visualization: Excel, Power BI, Stata, Python (pandas, matplotlib)
+- 💼 Finance & Investment: Project evaluation, NPV & IRR analysis
+- 📈 Data Handling: Data cleaning, data visualization, basic data analysis
+- 🌐 Others: Research, presentation, teamwork 
 
 ---
 
