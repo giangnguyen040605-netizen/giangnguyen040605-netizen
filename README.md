@@ -10,7 +10,7 @@
 [Facebook](https://web.facebook.com/chaugiang.chaugiang.564)  
 [Instagram](https://www.instagram.com/nk.chou_zang/)  
 [Gmail](mailto:giangnguyen.040605@gmail.com)  
-
+[LinkedIn](www.linkedin.com/in/khoa-châu-giang-nguyễn-5394a6301)
 ---
 
 ## 🛠 Skills & Tools  
