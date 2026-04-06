@@ -1,6 +1,6 @@
 ## Hi there, I'm Giang 👋
 
-🎓 I'm a 3rd-year student majoring in **Investment Economics** at **University of Economics Ho Chi Minh City (UEH)**.  
+🎓 I'm a student majoring in **Investment Economics** at **University of Economics Ho Chi Minh City (UEH)**.  
 💡 I’m passionate about finance, project evaluation, and data analysis.  
 🚀 Currently, I’m looking for opportunities to apply my skills in real-world projects and internships.  
 
